@@ -1,7 +1,7 @@
 # METrack
 # A Multi-modal Long-term Target Tracking Method Based on Motion Estimation
 
-![](fig/fig.jpg)
+![](fig/figure.png)
 
 
 
